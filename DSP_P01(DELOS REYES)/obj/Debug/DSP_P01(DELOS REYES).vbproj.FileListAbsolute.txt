@@ -1,0 +1,71 @@
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).exe
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).pdb
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).xml
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Resources.resources
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).vbproj.GenerateResource.Cache
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).exe
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).xml
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).pdb
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Main_Form.resources
+G:\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).exe
+G:\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).pdb
+G:\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).xml
+G:\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\ResolveAssemblyReference.cache
+G:\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Histogram_Preview_Enlarged.resources
+G:\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Main_Form.resources
+G:\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Resources.resources
+G:\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).vbproj.GenerateResource.Cache
+G:\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).exe
+G:\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).xml
+G:\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).pdb
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Pixel_Values.resources
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).exe.config
+C:\Users\Maxx\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.CustomFilter_3X3.resources
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).exe.config
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).exe
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).xml
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).pdb
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).exe
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).pdb
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).xml
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.AboutBox.resources
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.CustomFilter_3X3.resources
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Pixel_Values.resources
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Main_Form.resources
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Resources.resources
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).vbproj.GenerateResource.Cache
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.SplashScreen1.resources
+C:\Documents and Settings\coeprof13l-9\My Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Main_Video.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.AboutBox.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.CustomFilter_3X3.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Main_Video.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Pixel_Values.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Main_Form.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Resources.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.SplashScreen1.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DirectShowLib-2005.dll
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).exe
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).pdb
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\bin\Debug\DSP_P01(DELOS REYES).xml
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.AboutBox.resources
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.CustomFilter_3X3.resources
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Main_Video.resources
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Pixel_Values.resources
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Main_Form.resources
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.Resources.resources
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01_DELOS_REYES_.SplashScreen1.resources
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).exe
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).xml
+C:\Users\User\Documents\Visual Studio 2008\DSP_P01(DELOS REYES)\DSP_P01(DELOS REYES)\obj\Debug\DSP_P01(DELOS REYES).pdb
